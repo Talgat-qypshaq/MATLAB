@@ -1,0 +1,4 @@
+1	"1,2,3,4,5,6,7"	red_(from_house_2_to_the_bus_stop)
+2	"8,9,10,11,12,13,14,15,16"	yellow_(around_the_block)
+3	"17,18,9,19"	violet_(from house_4_to_the_bus_stop)
+4	"17,18,21,22"	pink_(from_house_4_to_mega_silk_way)
